@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" role="img" aria-labelledby="t">
+  <title id="t">Ismael Saldivar: aspiring Linux systems administrator and network engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1622"/>
+      <stop offset="1" stop-color="#101c2c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="598" height="328" rx="14" fill="url(#bg)" stroke="#1f3b5c" stroke-width="2"/>
+  <path d="M1 15a14 14 0 0 1 14-14h570a14 14 0 0 1 14 14v25H1z" fill="#18222e"/>
+  <circle cx="26" cy="20" r="7" fill="#3a4654"/>
+  <circle cx="48" cy="20" r="7" fill="#3a4654"/>
+  <circle cx="70" cy="20" r="7" fill="#3fb950"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="32" y="86" font-size="24"><tspan fill="#3fb950">ismael@fedora</tspan><tspan fill="#7d8a99">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#7d8a99">$ </tspan><tspan fill="#c9d1d9">cat ~/.motd</tspan></text>
+    <text x="32" y="148" font-size="48" font-weight="700" fill="#e6edf3">Ismael Saldivar</text>
+    <text x="32" y="196" font-size="27" fill="#58a6ff">Aspiring Linux Systems</text>
+    <text x="32" y="230" font-size="27" fill="#58a6ff">Administrator &amp; Network Engineer</text>
+    <text x="32" y="272" font-size="21" fill="#8b98a8">Linux | Networking | Proxmox | pfSense</text>
+    <text x="32" y="300" font-size="21" fill="#8b98a8">Infrastructure Automation</text>
+    <rect x="356" y="284" width="12" height="20" fill="#3fb950"/>
+  </g>
+</svg>
